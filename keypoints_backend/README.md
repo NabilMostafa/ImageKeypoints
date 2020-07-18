@@ -3,8 +3,8 @@
 Follow these steps to install django project:
 
 - Create virtual environment for the project.
-- Install requirements.txt. <pip install -r requirements.txt>
-- Load Dumpdata. <py manage.py loaddata dumpdata.json>
+- Install requirements.txt. "pip install -r requirements.txt"
+- Load Dumpdata. "py manage.py loaddata dumpdata.json"
 
 In the project directory, you can run:
 
