@@ -8,7 +8,7 @@ Follow these steps to install django project:
 
 In the project directory, you can run:
 
-# `py manage.py runserver`
+#### `py manage.py runserver`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:8000](http://localhost:8000)
