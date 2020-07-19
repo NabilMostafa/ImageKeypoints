@@ -1,6 +1,6 @@
 ### "Image Keypoints" 
 ## Details:
-Displaying points to an Image with the ability to Drag and Drop points to save its new location in the database <br/>
+Displaying points on an Image with the ability to Drag and Drop points to change its location and save the new location in the database <br/>
 ## Tech stack:
 React in frontend <br/>
 Django in Backend
